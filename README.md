@@ -1,3 +1,3 @@
 # Photo Portfolio
 
-Project for git studies
+Project for git study
